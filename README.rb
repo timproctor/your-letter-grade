@@ -15,7 +15,7 @@ def get_grade(scores)
   when average >= 60
     "D"  
   else
-	  "F"
+    "F"
   end
 end
 
